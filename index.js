@@ -13,3 +13,5 @@ export const stop = () => {
 
 export const addPlaybackFinishedListener = (callback) =>
   emitter.addListener('playbackFinished', callback);
+
+export { AudioStreamPlayer };

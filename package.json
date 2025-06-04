@@ -13,5 +13,8 @@
     "ios": {
       "sourceDir": "ios"
     }
+  },
+  "peerDependencies": {
+    "react-native": ">=0.64.0"
   }
 }
