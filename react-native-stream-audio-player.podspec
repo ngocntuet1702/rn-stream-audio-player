@@ -7,7 +7,7 @@ package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 Pod::Spec.new do |spec|
 
 
-  spec.name         = "AudioStreamPlayer"
+  spec.name         = "react-native-stream-audio-player"
   spec.version      = package['version']
   spec.summary      = package["description"]
   spec.description  = package["description"]
