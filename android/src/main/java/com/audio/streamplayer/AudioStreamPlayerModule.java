@@ -1,4 +1,4 @@
-package vn.base.assistant.audio;
+package com.audio.streamplayer;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;

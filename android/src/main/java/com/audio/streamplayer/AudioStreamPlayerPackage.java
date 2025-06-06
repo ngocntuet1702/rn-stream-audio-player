@@ -1,4 +1,4 @@
-package vn.base.assistant.audio;
+package com.audio.streamplayer;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
