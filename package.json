@@ -6,6 +6,10 @@
   "keywords": ["react-native", "audio", "stream", "player", "native-module"],
   "author": "ngocnt",
   "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/ngocntuet1702/rn-stream-audio-player"
+  },
   "react-native": {
     "android": {
       "sourceDir": "android"
