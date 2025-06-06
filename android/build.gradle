@@ -44,7 +44,7 @@ def supportsNamespace() {
 
 android {
   if (supportsNamespace()) {
-    namespace "com.streamplayer"
+    namespace "com.audio.streamplayer"
 
     sourceSets {
       main {
