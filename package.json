@@ -1,6 +1,6 @@
 {
   "name": "react-native-stream-audio-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Streaming audio player for React Native (Android + iOS)",
   "main": "index.js",
   "keywords": ["react-native", "audio", "stream", "player", "native-module"],
@@ -8,8 +8,9 @@
   "license": "MIT",
     "repository": {
     "type": "git",
-    "url": "https://github.com/ngocntuet1702/rn-stream-audio-player"
+    "url": "https://github.com/ngocntuet1702/rn-stream-audio-player.git"
   },
+  "homepage": "https://github.com/ngocntuet1702/rn-stream-audio-player.git",
   "react-native": {
     "android": {
       "sourceDir": "android"
