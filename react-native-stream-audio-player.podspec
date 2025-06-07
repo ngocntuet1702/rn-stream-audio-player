@@ -17,6 +17,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = package["homepage"]
   spec.license      = package["license"]
   spec.platform     = :ios, "13.0"
+  spec.ios.deployment_target = "13.0"
 
 
   spec.source       = { :git => package['repository']['url'], :tag => "v#{package['version']}" }
